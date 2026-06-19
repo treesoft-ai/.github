@@ -1,7 +1,5 @@
 <h1 align="center">TreeSoft AI</h1>
 
-<p align="center">Reinventing What's Possible.</p>
-
 <br>
 
 ## About
