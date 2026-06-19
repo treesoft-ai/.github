@@ -1,7 +1,5 @@
 <h1 align="center">TreeSoft AI</h1>
 
-<br>
-
 ## About
 
 TreeSoft AI is the artificial intelligence division of **TreeSoft**, focused on researching and building AI systems that push past conventional approaches. We work close to the metal, with model internals, training dynamics, and architecture-level experimentation, rather than just wrapping existing APIs.
