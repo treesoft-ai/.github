@@ -1,4 +1,4 @@
-<h1 align="center">TreeSoft AI</h1>
+<p align="center"><b><font size="6">TreeSoft AI</font></b></p>
 
 ## About
 
